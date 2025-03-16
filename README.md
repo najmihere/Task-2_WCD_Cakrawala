@@ -14,6 +14,6 @@ Tugas ini bertujuan untuk mempraktikkan alur kerja Git dan GitHub:
    - Menghubungkan repositori lokal ke GitHub dan melakukan push.
 
 ## Hasil Pengerjaan
-- Repositori GitHub: [Task-2_WCD_Cakrawala](https://github.com/najminere/Task-2_WCD_Cakrawala)
+- Repositori GitHub: [https://github.com/najmihere/Task-2_WCD_Cakrawala/tree/master](https://github.com/najminere/Task-2_WCD_Cakrawala)
 - File `app.js` berhasil di-push ke branch `master`.
 
